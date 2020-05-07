@@ -1,6 +1,6 @@
 # SQL
 
-This is a solo Microverse project, where I solve SQL questions on SQLZOO.net
+This is a solo Microverse project, where I solve SQL questions on SQLZOO.net  
 Different files corresponding to different questions solved on the website and documented here for reference purpose.
 
 <!--
